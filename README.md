@@ -6,5 +6,7 @@ First Unreal Engine 4 tutorial I've tried. Instructions are here: https://www.ra
 Added two small features to the project:
   - Passing through each tunnel increases the speed of the player
   - There are black pickups available in the tunnel that decrease the speed of the player.
+  ![alt text](https://raw.githubusercontent.com/dominguerilla/unreal-infinite-tunnel/master/Screenshots/s1.png)
+
   
 The idea is, the player gets more points the faster he goes through the tunnel. Of course, if the player is going too fast, they risk losing control.
